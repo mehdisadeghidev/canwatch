@@ -1,0 +1,33 @@
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.d
+*.o
+*.a
+
+# Design workspace (screenshots, mocks, notes) - not part of the sketch
+.oil-ui/
+
+# Editor / tool caches
+.vscode/
+.idea/
+.cache/
+.ccls-cache/
+compile_commands.json
+
